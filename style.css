@@ -1,0 +1,46 @@
+.links{
+    background: #8BC34A;
+    height: 100px;
+    display: flex;
+    padding-left: 250px;
+    
+}
+.something{
+    margin-left: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h2{
+    font-size: 20px;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+    margin-top: 5px;
+}
+.flex{
+    display: flex;
+}
+.logolog{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.btnlogin{
+    background: none;
+    border: none;
+}
+.lootboxes{
+    text-align: center;
+}
+.complete{
+    margin-left: 100px;
+    height: 194px;
+    width: 259px;
+    text-align: center;
+}
+.hwextra{
+    height: 194px;
+    width: 259px;
+}
